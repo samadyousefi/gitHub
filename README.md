@@ -1,8 +1,6 @@
 # gitHub
 # Github Search Api  - Android App
 
-Github Search is an Android application developed using Kotlin programming language, which allows users to search for Github users and repositories using Github API.
-
 ## Installation
 Install the apk file from the given link [app](https://www.dropbox.com/s/5w55c86vq57bu0u/app-debug.apk?dl=1)
 
